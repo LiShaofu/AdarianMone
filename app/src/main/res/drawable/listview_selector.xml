@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--按下-->
+    <item android:drawable="@color/color_blue" android:state_pressed="true"></item>
+    <!--选中-->
+    <item android:drawable="@color/color_blue" android:state_selected="true"></item>
+    <!--获取焦点-->
+    <item android:drawable="@color/color_blue" android:state_focused="true"></item>
+</selector>
